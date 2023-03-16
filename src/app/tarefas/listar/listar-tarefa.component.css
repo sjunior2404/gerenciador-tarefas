@@ -1,0 +1,8 @@
+.concluida{
+    text-decoration: line-through;
+    background: #e3fbe3;
+}
+
+.naoconcluida{
+    background: #fff8dc;
+}
